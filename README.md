@@ -1,7 +1,5 @@
 # Shop2Woo Review: The Startup Story, Case Study & Why 88+ Users Swear by It
 
-## Introduction: The Migration Pain Nobody Talks About
-
 Running a successful online store isn’t easy. You start small, learn your way through product research, tweak your Shopify themes, install dozens of apps, and—hopefully—make some profit. But what happens when you outgrow Shopify?
 
 Maybe you want more control. Maybe the monthly subscription costs are stacking up. Or maybe, like many others, you’re tired of rigid platform limitations.
